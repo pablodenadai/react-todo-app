@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Learn",
+      "isComplete": true
+    },
+    {
+      "id": 2,
+      "name": "Build",
+      "isComplete": false
+    },
+    {
+      "id": 3,
+      "name": "Ship",
+      "isComplete": true
+    }
+  ]
+}
